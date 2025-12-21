@@ -223,9 +223,9 @@ hist_h - cvRound(r_hist.at<float>(i - 1))
 
 **图像直方图 Histogram**
 
-![](C:\Users\DISI\Desktop\HOME\Pictures\histogram.png)
+![](./image/histogram.png)
 
 **原图  original**
 
-<img src="C:\Users\DISI\Desktop\HOME\Pictures\original.png"  />
+![](./image/original.png)
 
